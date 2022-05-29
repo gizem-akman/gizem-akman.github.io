@@ -13,12 +13,17 @@ interests:
   - AKMA
   - AKA
 social:
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=82c9no8AAAAJ&hl=tr&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gizem-akman-24339a22/
+  - display:
+      header: false
+    link: https://orcid.org/my-orcid?orcid=0000-0001-8752-7232
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: University of Helsinki
     url: https://www.helsinki.fi/en
