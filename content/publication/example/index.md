@@ -32,7 +32,7 @@ url_source: ""
 url_video: ""
 title: AKMA Support in Multi SIM User Equipment
 doi: 10.23919/FRUCT48121.2019.8981494
-featured: true
+featured: false
 tags: []
 projects: []
 image:
