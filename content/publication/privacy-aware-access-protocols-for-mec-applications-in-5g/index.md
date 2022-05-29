@@ -9,7 +9,7 @@ authors:
 doi: https://doi.org/10.3390/network2020014
 publication: "This article belongs to the Special Issue Blockchain and Machine
   Learning for IoT: Security and Privacy Challenges"
-publication_short: Network
+publication_short: In Network
 abstract: Multi-access edge computing (MEC) is one of the emerging key
   technologies in fifth generation (5G) mobile networks, providing reduced
   end-to-end latency for applications and reduced load in the transport network.
