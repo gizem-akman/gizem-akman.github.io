@@ -21,7 +21,7 @@ abstract: Multi-Access Edge Computing (MEC) is one of the emerging key
   introduce a privacy-preserving access solution for the system model and
   analyze the solution against the privacy requirements.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
