@@ -9,7 +9,7 @@ authors:
 doi: https://doi.org/10.1007/978-3-030-87010-2_4
 publication: In International Conference on Computational Science and Its
   Applications – ICCSA 2021
-publication_short: ICCSA
+publication_short: In ICCSA
 abstract: Multi-Access Edge Computing (MEC) is one of the emerging key
   technologies in Fifth Generation (5G) Mobile Networks, providing reduced
   end-to-end latency for applications and reduced load in the transport network.
