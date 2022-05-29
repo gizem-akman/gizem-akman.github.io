@@ -24,10 +24,10 @@ abstract: Multi-access edge computing (MEC) is one of the emerging key
   protocol for the system model and analyze this protocol against the privacy
   requirements.
 draft: false
-featured: true
+featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-05-29T22:23:45.700Z
+date: 2022-03-31T22:23:45.700Z
 ---
