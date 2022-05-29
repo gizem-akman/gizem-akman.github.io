@@ -8,7 +8,7 @@ authors:
   - Valtteri Niemi
 doi: 10.23919/FRUCT48121.2019.8981494
 publication: 25th Conference of Open Innovations Association (FRUCT)
-publication_short: FRUCT
+publication_short: In FRUCT
 abstract: Multi-SIM User Equipment (UE) can have more than one physical slot for
   Universal Integrated Circuit Card (UICC). The eUICC is an embedded version of
   the UICC, which cannot be physically removed from the communication device.
