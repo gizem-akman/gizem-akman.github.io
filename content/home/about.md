@@ -12,4 +12,4 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#54cbef"
 ---
-Gizem is a PhD Researcher in University of Helsinki.
+Gizem is a PhD Researcher in University of Helsinki. She had her Master's Degree in Cryptography and Data Security from University of Turku, Turku, Finland in 2018.
