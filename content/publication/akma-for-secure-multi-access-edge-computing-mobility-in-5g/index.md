@@ -7,6 +7,8 @@ authors:
   - Philip Ginzboorg
   - Valtteri Niemi
 doi: 10.1007/978-3-031-10542-5_30
+publication: In International Conference in Computational Science and Its
+  Applications – ICCSA 2022 Workshops
 abstract: Multi-Access Edge Computing (MEC) extends the cloud computing
   capabilities to the edge of the 5G network. The current 3rd Generation
   Partnership Project (3GPP) and European Telecommunications Standard Institute
