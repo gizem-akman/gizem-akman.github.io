@@ -16,16 +16,19 @@ content:
   autolink: true
 
   # Email form provider
-  form:
+ <!---
+ form:
     provider: netlify
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
+-->
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: gizemakman@hotmail.com
+  <!---
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
@@ -51,7 +54,7 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
-
+-->
 design:
   columns: '2'
 ---
