@@ -12,6 +12,7 @@ interests:
   - Authentication
   - AKMA
   - AKA
+  - Formal Verification
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -24,6 +25,9 @@ social:
     link: https://orcid.org/0000-0001-8752-7232
     icon_pack: ai
     icon: orcid
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gizem-akman
 organizations:
   - name: University of Helsinki
     url: https://www.helsinki.fi/en
@@ -35,7 +39,6 @@ education:
     - course: BSc in Mathematics
       institution: Bilkent University
       year: 2015
-email: gizem.akman@helsinki.fi
 superuser: true
 highlight_name: true
 ---
