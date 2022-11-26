@@ -29,7 +29,25 @@ experience:
     location: Helsinki, Finland
     date_start: "2019-05-01"
     description: |2-
-        Doctoral researcher in secure systems.
+        Responsibilities include:
+
+        * Researches on Security and Privacy for Internet of Things
+        * Designs protocol for 5G mobile network
+        * Applies Formal Verification on the designed protocols
+
+  - title: Research Assistant
+    company: University of Helsinki
+    company_url: ""
+    company_logo: ""
+    location: Helsinki, Finland
+    date_start: "2018-08-08"
+    date_end: "2016-04-30"
+    description: |2-
+        Responsibilities include:
+
+        * Researched on 5G authentication and communication protocols
+        * Designed a protocol for using AKMA for Multi-SIM users
+
 
   - title: Research Assistant
     company: University of Helsinki
