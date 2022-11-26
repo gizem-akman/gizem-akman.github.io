@@ -41,8 +41,9 @@ education:
       year: 2015
 superuser: true
 highlight_name: true
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/akman_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
 ---
 
 Gizem Akman is a Ph.D. student at the University of Helsinki, Helsinki, Finland, and part of the Secure Systems Research Group. She received a Bachelor’s degree in Mathematics in 2015 from Bilkent University, Ankara, Turkey, and a Master’s degree in Cryptography and Data Security in 2018 from the University of Turku, Turku, Finland. Her Master’s thesis focused on identity privacy in 5G networks, and her research interests also include privacy and security in Multi-SIM devices and 5G services.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/akman_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
