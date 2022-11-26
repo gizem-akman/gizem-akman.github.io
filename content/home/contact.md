@@ -15,4 +15,6 @@ design:
   columns: "2"
 ---
 
-Email: gizemakman @ at @ hotmail @ dot @ com
+Personal Email: gizemakman @ at @ hotmail @ dot @ com
+        
+University Email: gizem.akman @ at @ helsinki @ dot @ fi
