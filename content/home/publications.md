@@ -10,17 +10,17 @@ headless: true
 weight: 10
 
 title: Recent Publications
-subtitle: ''
+subtitle: ""
 
 content:
   # Filter on criteria
   filters:
     folders:
       - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -33,9 +33,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: "2"
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{< cta cta_text="See all" cta_link="publication" cta_new_tab="false" cta_alt_text="🎓 Google Scholar" cta_alt_link="https://scholar.google.com/citations?user=82c9no8AAAAJ" cta_alt_new_tab="false" >}}
