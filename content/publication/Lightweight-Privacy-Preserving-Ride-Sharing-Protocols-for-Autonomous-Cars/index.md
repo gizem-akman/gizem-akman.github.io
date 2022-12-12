@@ -1,5 +1,5 @@
 ---
-title: AKMA Support in Multi SIM User Equipment
+title: Lightweight Privacy-Preserving Ride-Sharing Protocols for Autonomous Cars
 publication_types:
   - "1"
 authors:
