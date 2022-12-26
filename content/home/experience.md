@@ -41,7 +41,7 @@ experience:
     company_logo: ""
     location: Helsinki, Finland
     date_start: "2018-08-08"
-    date_end: "2016-04-30"
+    date_end: "2019-04-30"
     description: |2-
         Responsibilities include:
 
