@@ -1,5 +1,5 @@
 ---
-title: Privacy-Preserving Access for Multi-Access Edge Computing (MEC) ApplicationsAAAAAA
+title: Privacy-Preserving Access for Multi-Access Edge Computing (MEC) Applications
 publication_types:
   - "1"
 authors:
