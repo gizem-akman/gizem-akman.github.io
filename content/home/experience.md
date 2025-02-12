@@ -22,12 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Researcher
+    company: University of Helsinki
+    company_url: ""
+    company_logo: ""
+    location: Helsinki, Finland
+    date_start: "2024-12-01"
+    description: |2-
+        Responsibilities include:
+
+        * Researches on Security and Privacy communication network
+        * Designs and enhance protocol for mobile network
+        * Applies Formal Verification on the designed protocols
+
   - title: Doctoral Researcher
     company: University of Helsinki
     company_url: ""
     company_logo: ""
     location: Helsinki, Finland
     date_start: "2019-05-01"
+    date_end: "2024-11-30"
     description: |2-
         Responsibilities include:
 
