@@ -1,8 +1,8 @@
 ---
 title: Gizem Akman
-role: Doctoral Researcher in University of Helsinki
+role: Postdoctoral Researcher in University of Helsinki
 avatar_filename: msg1713164847-12678.jpg
-bio: Doctoral Researcher in Secure Systems
+bio: Postdoctoral Researcher in Secure Systems
 
 interests:
   - 5G
@@ -33,11 +33,14 @@ organizations:
     url: https://www.helsinki.fi/en
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Helsinki, Finland
+      year: 2024
     - course: MSc in Cryptography and Data Security
-      institution: University of Turku
+      institution: University of Turku, Finland
       year: 2018
     - course: BSc in Mathematics
-      institution: Bilkent University
+      institution: Bilkent University, Türkiye
       year: 2015
 superuser: true
 highlight_name: true
