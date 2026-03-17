@@ -44,16 +44,18 @@ interests:
   - 5G
   - Security
   - Privacy
+  - Security Protocols
+  - Formal Verification
   - MEC
   - Authentication
+  - Key Agreement
   - AKMA
   - AKA
-  - Formal Verification
   - PQC
 education:
   - degree: PhD Computer Science
     institution: University of Helsinki, Finland
-    end: 2024
+    year: 2024
     summary: |
       "Privacy and Mobility Aspects in Authentication and Key Agreement Protocols"
     button:
@@ -62,10 +64,10 @@ education:
       icon: hero/arrow-down-tray
   - degree: MSc in Cryptography and Data Security
     institution: University of Turku, Finland
-    end: 2018
+    year: 2018
   - degree: BSc in Mathematics
     institution: Bilkent University, Türkiye
-    end: 2015
+    year: 2015
 
 experience:
   - role: Senior AI Research Scientist
