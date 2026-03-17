@@ -52,23 +52,23 @@ interests:
   - PQC
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+    institution: University of Helsinki, Finland
+    start: 2019-05-01
+    end: 2024-11-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      "Privacy and Mobility Aspects in Authentication and Key Agreement Protocols"
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
+  - degree: MSc in Cryptography and Data Security
+    institution: University of Turku, Finland
+    start: 2015-09-01
+    end: 2018-06-08
+  - degree: BSc in Mathematics
+    institution: Bilkent University, Türkiye
     start: 2009-09-01
-    end: 2013-05-31
+    end: 2015-06-14
 
 experience:
   - role: Senior AI Research Scientist
