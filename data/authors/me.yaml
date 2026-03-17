@@ -12,45 +12,44 @@ postnominals:
   - PhD
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Postdoctoral Researcher
 bio: |
   Gizem Akman is a Postdoctoral Researcher at the University of Helsinki,
-  Helsinki, Finland, and part of the Secure Systems Research Group.
-  She received a Bachelor's degree in Mathematics in 2015 from Bilkent University,
-  Ankara, Turkey, and a Master's degree in Cryptography and Data Security in 2018
-  from the University of Turku, Turku, Finland.
-  Her Master's thesis focused on identity privacy in 5G networks.
-  She completed her doctoral studies in 2024 and her thesis title is
-  "Privacy and Mobility Aspects in Authentication and Key Agreement Protocols".
-  Her research interests include privacy and security in authentication and
-  key management for communication protocols, e.g., widely known cryptographic
-  protocols and protocols in mobile networks, as well as Post-Quantum Cryptography.
+  Finland, and part of the Secure Systems Research Group. Her Master's thesis 
+  focused on identity privacy in 5G networks. She completed her doctoral studies 
+  in 2024 and her thesis title is "Privacy and Mobility Aspects in Authentication 
+  and Key Agreement Protocols". Her research interests include privacy and security 
+  in authentication and key management for communication protocols, e.g., widely 
+  known cryptographic protocols and protocols in mobile networks, formal verification 
+  of these protocols, and Post-Quantum Cryptography.
 
 affiliations:
   - name: University of Helsinki
-    url: https://ai.meta.com/
+    url: https://www.helsinki.fi/en
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:gizem.akman@helsinki.fi
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/gizem-akman
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/gakman/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=82c9no8AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-8752-7232
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - 5G
+  - Security
+  - Privacy
+  - MEC
+  - Authentication
+  - AKMA
+  - AKA
+  - Formal Verification
+  - PQC
 education:
   - degree: PhD Computer Science
     institution: Stanford University
