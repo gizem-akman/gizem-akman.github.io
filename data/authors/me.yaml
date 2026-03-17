@@ -53,8 +53,7 @@ interests:
 education:
   - degree: PhD Computer Science
     institution: University of Helsinki, Finland
-    start: 2019-05-01
-    end: 2024-11-30
+    end: 2024
     summary: |
       "Privacy and Mobility Aspects in Authentication and Key Agreement Protocols"
     button:
@@ -63,12 +62,10 @@ education:
       icon: hero/arrow-down-tray
   - degree: MSc in Cryptography and Data Security
     institution: University of Turku, Finland
-    start: 2015-09-01
-    end: 2018-06-08
+    end: 2018
   - degree: BSc in Mathematics
     institution: Bilkent University, Türkiye
-    start: 2009-09-01
-    end: 2015-06-14
+    end: 2015
 
 experience:
   - role: Senior AI Research Scientist
